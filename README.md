@@ -54,4 +54,4 @@ _______
 
 ## Контактная информация
 - [Email](Klimov888ily@gmail.com) 
--[LinkedIn](https://www.linkedin.com/in/ilia8klimov/) 
+- [LinkedIn](https://www.linkedin.com/in/ilia8klimov/) 
