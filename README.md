@@ -53,5 +53,5 @@ _______
 - [Аттестация by Klimov Ilia](https://phrygian-condition-be6.notion.site/by-Klimov-Ilia-84cdb38cc10542958ba80cabcb1934de?pvs=4):  Проект включал в себя совершенно разные четыре задания для проверки знаний в области Тестирования. SQL , API и Основы Тестирования.
 
 ## Контактная информация
-- Email: Klimov888ily@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ilia8klimov/
+- [Email](Klimov888ily@gmail.com) 
+-[LinkedIn](https://www.linkedin.com/in/ilia8klimov/) 
