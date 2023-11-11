@@ -37,7 +37,7 @@ _______
 
 ## Резюме
 
-Вы можете ознакомиться с моим резюме скачав его как [PDF файл из моего Google Drive](https://drive.google.com/file/d/1qG5oy1wZDhMMxsfqhuelgrSUA9fDjEAr/view?usp=sharing)
+Вы можете ознакомиться с моим резюме скачав его как [PDF файл из моего Google Drive](https://drive.google.com/file/d/1qQEHtflEjE_vLxTcZoaw_dpGYw-fRz9f/view?usp=sharing)
 
 # Проекты
 - [Тестирование кабинета учителя в приложении SkyЕng](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4): Проект "Тестирование кабинета учителя" был запущен для обеспечения эффективной работы учителей с онлайн-платформой. Мы использовали широкий набор инструментов, включая автоматизированные тесты, ручное тестирование и обратную связь от пользователей.
