@@ -4,7 +4,7 @@ _______
 - [📃Резюме](#📃Резюме)
 - [🖱️Навыки и технологии](#🖱️Навыки-и-технологии)
 - [📊Проекты](#📊Проекты)
-- [Контактная информация](#Контактная-информация)
+- [📞Контактная информация](#📞Контактная-информация)
  
   
 ## 👨‍💻Обо мне 
@@ -126,7 +126,7 @@ _______
 
 ---
 
-## Контактная информация
+## 📞Контактная информация
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@ilia8klimov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ilia8klimov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](Klimov888ily@gmail.com)
 
 
