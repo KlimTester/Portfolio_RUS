@@ -1,6 +1,5 @@
 # 👋Всем привет, меня зовут Илья!
 
--------
 - [👨‍💻Обо мне](#Обо-мне)
 - [🖱️Инструменты](#Инструменты)
 - [📃Резюме](#Резюме)
@@ -50,8 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
-
-
 ### 🛠 Тестирование веб-приложений:
 
 <div>
@@ -59,8 +56,6 @@
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
-
-
 
 ### 📱 Тестирование мобильных приложений:
 
@@ -72,8 +67,6 @@
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
 
-
-
 ### 💾 Работа с данными:
 
 <div>
@@ -81,8 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 </div>
-
-
 
 ### ✏️ Работа с кодом:
 
@@ -92,8 +83,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
-
-
 
 ## 📃Резюме
 
@@ -112,8 +101,6 @@
 В целом, проект с использованием API Postman позволил провести эффективное тестирование кабинета учителя, улучшив его функциональность и надежность.
 - [Аттестация by Klimov Ilia](https://phrygian-condition-be6.notion.site/by-Klimov-Ilia-84cdb38cc10542958ba80cabcb1934de?pvs=4):  Проект включал в себя совершенно разные четыре задания для проверки знаний в области Тестирования. SQL , API и Основы Тестирования.
   
-
-
 ### ⚙️ GitHub statistics:
 
 <table>
@@ -128,8 +115,6 @@
 </table>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KlimTester)
-
-
 
 ## 📞Контактная информация
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@ilia8klimov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ilia8klimov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](Klimov888ily@gmail.com)
